@@ -1,5 +1,8 @@
+# v0.0.2
+- Added alphabet scroll
+
 # v0.0.1
-- Add contact sorting
+- Added contact sorting
 
 # v0.0.0
 - Added first version of birtday-reminder!
