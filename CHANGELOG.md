@@ -1,3 +1,7 @@
+# v0.0.3
+- Added search functionality
+- Fixed bug of search bar being hidden by mobile keyboard
+
 # v0.0.2
 - Added alphabet scroll
 
